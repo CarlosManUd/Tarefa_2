@@ -7,7 +7,7 @@ package tarefa2;
 
 /**
  *
- * @author noese
+ * @author carli
  */
 public class Tarefa2 {
 
